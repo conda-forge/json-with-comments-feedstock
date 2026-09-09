@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.2.10"
+  version: "1.3.0"
 
 package:
   name: json-with-comments
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/j/json-with-comments/json_with_comments-${{ version }}.tar.gz
-  sha256: 0020b321cf6c80963c85f95ce985e71332f1797ed49abfd1cd675b3bdee24a28
+  sha256: 8e9668f9aaa9f50cb546828da958c606e45f3866daceb51f16b0ee61985c0677
 
 build:
   number: 0
